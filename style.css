@@ -67,7 +67,7 @@ TABLE OF CONTENT
   |
   ------------------------------------------------------------*/
 
-  --ui-typography-typeface: "Inter", sans-serif;
+  --ui-typography-typeface: "Neucha", sans-serif;
 
   /* FONT SIZE */
 
@@ -442,7 +442,7 @@ button {
 
   /* LOGO */
 
-  .ui-section-hero--logo svg { width: 4rem; }
+  .ui-section-hero--logo svg { width: 10rem; }
 
   /*------------------------------------------------------------
   |
